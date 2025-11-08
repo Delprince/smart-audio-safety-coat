@@ -5,19 +5,19 @@ the smart audio safety coat is a wearable solution made for construction workers
 ## WHY IT MATTERS
 construction environment are stressful, loud and communication-intensive. workers often rely on music to stay active/motivated, but earphone/earpod pose safety risk because they break easily. this coat will solve these issues by integrating audio into clothing. no earphones needed.
 ## WHO IT IS FOR
-construction workers
-bricklayes
-site supervisor
+Construction workers
+Bricklayes
+Site supervisor
 ## KEY FEATURES
-open ear audio through integrated mini speakers
-hands-free calling to improve communication among team members
-bluetooth connection to any mobile device
-durable waterproof safety material
-wearable and comfort for many hours
-integrated rechargeable battery stored in the shoulder padding
+Open ear audio through integrated mini speakers
+Hands-free calling to improve communication among team members
+Bluetooth connection to any mobile device
+Durable waterproof safety material
+Wearable and comfort for many hours
+Integrated rechargeable battery stored in the shoulder padding
 ## TECHNOLOGIES USED
-bluetooth audio module
-embedded low-volume speakers
-rechargeable battery system
-protective fabric design
-basic electronic wiring integrated into coat lining
+Bluetooth audio module
+Embedded low-volume speakers
+Rechargeable battery system
+Protective fabric design
+Basic electronic wiring integrated into coat lining.
