@@ -23,6 +23,18 @@ This device does not require database because; It does not log activity, save au
 # how it works
 The workers pairs their phone with the coat via bluetooth
 The bluetooth module receieves audio signals
-![systemarchitecture png](https://github.com/user-attachments/assets/bf2ffa53-7515-4067-ac2e-cf2c7fcbf921)
-
-
+![systemarchitecture png](https://github.com/Delprince/smart-audio-safety-coat./blob/main/systemarchitecture.png.jpg)
+## Technical Feasibility
+Bluetooth modles are not expensive, easily integrated in wearables and small
+Mini open-ear speakers are lightweight and safe for construction environment
+Rechargeable Li-ion or Li-poly batteries fits easily inside the shoulder padding (Li is simply lithium)
+Internal wiring is standard in smart clothing and does not affect comfort
+The system uses low power, enabling multiple times of playback in hours
+Lastly, system component are readily avaliable and support rapid prototying should in case there is need.
+## Future Enhancements
+Improve battery life
+Emergency alert system
+IoT connectivity for worksite managemant
+Integrate npoice suppression microphone
+Waterproofing of electronic component
+Dedicate mobile app for button customization.
