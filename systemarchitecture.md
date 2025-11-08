@@ -23,3 +23,6 @@ This device does not require database because; It does not log activity, save au
 # how it works
 The workers pairs their phone with the coat via bluetooth
 The bluetooth module receieves audio signals
+![systemarchitecture png](https://github.com/user-attachments/assets/bf2ffa53-7515-4067-ac2e-cf2c7fcbf921)
+
+
