@@ -10,7 +10,7 @@ Volume up/Down
 # LED indicator light showing charging or pairing status (this can be optional)
 ## Backend (Core Processing Layer)
 # Bluetooth Audio Module
-Receives wireless signals from mobile phone for music or call
+Receives wireless signals from mobile phone for music or call.
 # Microcontroller/logic 
 Manage incoming signals to speakers and button actions
 # Power Management Circuit
